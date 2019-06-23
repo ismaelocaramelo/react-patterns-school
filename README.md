@@ -3,7 +3,7 @@
 ### Before start
 
 - [Component Thinking](./components/thinking.md)
-- Component Design
+- [Component Design](./components/design.md)
 - Component Structure
 - Component Comunication
 
